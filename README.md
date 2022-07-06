@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi 👋, I'm Will Nascimento</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
@@ -30,6 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=will-nascimento&show_icons=true&theme=dark&locale=en" alt="will-nascimento" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=will-nascimento&theme=dark" alt="will-nascimento" /></p>
-<div>
-![Snake animation](https://github.com/will-nascimento/will-nascimento/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/will-nascimento/will-nascimento/blob/output/github-contribution-grid-snake.svg)
+
