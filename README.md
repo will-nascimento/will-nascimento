@@ -33,6 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=will-nascimento&theme=dark" alt="will-nascimento" /></p>
 </div>
 
-## Watch my contribution graph eaten by the snake🐍
-![Snake animation](https://github.com/will-nascimento/will-nascimento/blob/output/github-contribution-grid-snake.svg)
 
