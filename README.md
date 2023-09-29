@@ -1,14 +1,14 @@
 <div>
 <h1 align="center">Hi 👋, I'm Will Nascimento</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Salesforce Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=will-nascimento&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="will-nascimento" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=will-nascimento" alt="will-nascimento" /></a> </p>
 
-- 🔭 I’m currently looking for working
+- 🔭 I’m currently working
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Salesforce**
 
 - 👨‍💻 All of my projects are available at [https://github.com/will-nascimento](https://github.com/will-nascimento)
 
