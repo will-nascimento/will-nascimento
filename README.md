@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/will-nascimento](https://github.com/will-nascimento)
 
-- 💬 Ask me about **React Native, React Js and JavaScript**
-
 - 📫 How to reach me **willnascimentowns@gmail.com**
 
 - ⚡ Fun fact **I like contact sports like Mixed Marcial Arts, and also Cycling and skating.**
